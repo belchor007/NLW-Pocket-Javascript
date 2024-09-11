@@ -30,7 +30,19 @@
   ## Tipos de dados:
 
   Strings (textos); "" ´´
-  Number: 2 1.4 
+  Numbers: 2 1.4 
 
   #  Operadores 
   Operadores de atribuição de valor 
+  operador de concatenação 
+
+  # Objetos:
+
+  Atributod e métodos 
+  Criação e manipulação de objetos
+  Acesso  e propriedades de objetos 
+
+  ## Functions 
+  criar  ,  passar argumento 
+  executar 
+  arrow function / named function 
