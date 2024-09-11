@@ -1,7 +1,7 @@
 ## Linguagem de Programação 
 
   Maneira de dar instrução pelo computador.
-  Como um lego, você irá ultilazar peças para criar algoritmos, seja, para resolver probemas.
+  Como um lego, você irá utilazar peças para criar algoritmos, para resolver probemas.
 
   **Algoritimos**: Sequência de passos lógicos e finita para resolução de um problema.
 
@@ -19,5 +19,18 @@
   # Fases da resolução de um problema 
 
   Coletar os dados 
-  processar os dados (manipular, altear ...)
- Apresentar os dados 
+  processar os dados (manipular, alterar ...)
+  Apresentar os dados 
+
+  ## Escopo e variáveis:
+  Variáveis globais e locais
+  Constantes
+  Functions
+
+  ## Tipos de dados:
+
+  Strings (textos); "" ´´
+  Number: 2 1.4 
+
+  #  Operadores 
+  Operadores de atribuição de valor 
