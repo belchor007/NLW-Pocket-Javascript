@@ -49,4 +49,6 @@
 
   # Estrura de repetição 
   - while 
-  - 
+  
+  # Condicionais 
+  - switch
